@@ -1,2 +1,2 @@
 # 42_CPP
-All Modules from the 42 C++ Piscine
+All Modules from the 42 C++ Projects
